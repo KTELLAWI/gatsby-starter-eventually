@@ -13,11 +13,7 @@ module.exports = {
   subHeading:
     "FRAGRANCE & MORE.",
   socialLinks: [
-    {
-      icon: 'fa-github',
-      name: 'Github',
-      url: '',
-    },
+    
     {
       icon: 'fa fa-instagram',
       name: 'INSTAGRAM',
