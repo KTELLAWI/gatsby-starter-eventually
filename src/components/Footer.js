@@ -10,7 +10,7 @@ export default function Footer() {
           return (
             <li>
               <a href={url} class={`icon ${icon}`}>
-                <span class="label">{name}</span>
+                <span class="label">{}</span>
               </a>
             </li>
           );
