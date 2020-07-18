@@ -19,7 +19,7 @@ export default function Footer() {
       <ul className="copyright">
         <li>&copy; AROMA INSIDER. 2020</li>
         <li>
-           <a href=""></a> +
+           <a href=""></a> 
           <a href=""></a>
         </li>
       </ul>
