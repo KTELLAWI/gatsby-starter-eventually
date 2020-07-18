@@ -17,10 +17,10 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; AROMA INSIDER.</li>
+        <li>&copy; AROMA INSIDER. 2020</li>
         <li>
-          Credits: <a href="http://unsplash.com/">Unsplash</a> +
-          <a href="http://html5up.net">HTML5 UP</a>
+           <a href=""></a> +
+          <a href=""></a>
         </li>
       </ul>
     </footer>
