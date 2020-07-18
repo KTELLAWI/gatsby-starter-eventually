@@ -19,14 +19,14 @@ module.exports = {
       url: '',
     },
     {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: '',
+      icon: 'fa fa-instagram',
+      name: 'INSTAGRAM',
+      url: 'https://www.instagram.com/aroma.insider/',
     },
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://www.instagram.com/aroma.insider/',
+      url: 'https://www.facebook.com/aromainsider/',
     },
     {
       icon: 'fa-envelope-o',
